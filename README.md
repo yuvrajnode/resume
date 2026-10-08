@@ -20,9 +20,22 @@ I build LLM agents, retrieval systems and real-time web applications using Pytho
 | [CourseHub](https://github.com/yuvrajnode/CourseHub) | User/admin authentication, course management and purchase records | React, Express, MongoDB, JWT |
 | [Multi-Chain Wallet](https://github.com/yuvrajnode/web-based-wallet) | BIP39 seed phrases and Ethereum/Solana address derivation | React, ethers.js, Solana Web3.js |
 
+## Open-source contributions
+
+Eight merged pull requests in widely used open-source projects:
+
+| Project | Merged work |
+| --- | --- |
+| [Hugging Face Transformers](https://github.com/huggingface/transformers) | [#47509](https://github.com/huggingface/transformers/pull/47509) Phi-4 Multimodal vision embedding init · [#47558](https://github.com/huggingface/transformers/pull/47558) Pix2Struct attention sizing |
+| [Supabase](https://github.com/supabase/supabase) | [#51385](https://github.com/supabase/supabase/pull/51385) Studio: default cron HTTP timeout when `timeout_milliseconds` is omitted |
+| [Fish Speech](https://github.com/fishaudio/fish-speech) | [#1317](https://github.com/fishaudio/fish-speech/pull/1317), [#1318](https://github.com/fishaudio/fish-speech/pull/1318), [#1319](https://github.com/fishaudio/fish-speech/pull/1319) File listing, audio loading and API-client validation fixes |
+| [SafeDep vet](https://github.com/safedep/vet) | [#757](https://github.com/safedep/vet/pull/757) GitHub org scan error propagation · [#760](https://github.com/safedep/vet/pull/760) npm registry hostname matching |
+
+Further pull requests are in review at Supabase and n8n. [All pull requests](https://github.com/search?q=is%3Apr+author%3Ayuvrajnode&type=pullrequests&s=updated&o=desc)
+
 ## Technical skills
 
-- **Languages:** Python, TypeScript, JavaScript.
+- **Languages:** Python, TypeScript, JavaScript; working knowledge of Go, C, Swift and Kotlin.
 - **Frontend:** React, Next.js, Tailwind CSS, Canvas API.
 - **Backend and data:** Node.js, Express, FastAPI, PostgreSQL, pgvector, Prisma, MongoDB.
 - **AI/ML:** LLM tool use, RAG, LangGraph, model evaluation, PyTorch, Hugging Face, LoRA/PEFT and preference optimization.
